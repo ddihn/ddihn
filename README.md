@@ -1,12 +1,7 @@
-### Hi there 👋
-
----
-
 ### 👩‍💻 About Me
 
 무럭무럭 성장하고 싶습니다. 🌱
 
----
 
 ### ✨ Motto
 > 작은 일에도 최선을 다하자!!!
@@ -48,11 +43,3 @@
 ---
 
 <!-- ### 💡 Interested In-->
-
-### 📊 GitHub Stats
-
-![yoondoing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoondoing&show_icons=true&theme=default&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoondoing&layout=compact)
-
----
