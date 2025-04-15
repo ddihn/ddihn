@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
-<b> PROFILE 📍 </b></h3>
+<h3><b> PROFILE 📍 </b></h3>
 <!--   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a> -->
   <a href="https://https://github.com/ddihn" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <!--   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br> -->
 <br>
 <br>
- <h3 align="center"><b>💡 What I've Used 💡</b></h3>
+ <h3><b>💡 What I've Used 💡</b></h3>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
