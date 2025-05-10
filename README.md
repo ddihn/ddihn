@@ -35,6 +35,7 @@
 
 ### 🔭 Currently Learning
 - Python을 활용한 데이터 수집 및 전처리(ETL)
+- LLM Finetuning
 - Node.js
 - SQL
 - Spring Boot + JPA 백엔드 개발
