@@ -39,7 +39,7 @@
 - Node.js
 - SQL
 - Spring Boot + JPA 백엔드 개발
-- 클라우드
+- K8S
 
 ---
 
